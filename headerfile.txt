@@ -1,0 +1,19 @@
+:authority: d1796owzbt492w.cloudfront.net
+:method: GET
+:path: /10517.ogg
+:scheme: https
+accept: */*
+accept-encoding: identity;q=1, *;q=0
+accept-language: de-DE,de;q=0.9,en-US;q=0.8,en;q=0.7
+cache-control: no-cache
+pragma: no-cache
+priority: i
+range: bytes=0-
+referer: https://dscryb.com/
+sec-ch-ua: "Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-fetch-dest: audio
+sec-fetch-mode: no-cors
+sec-fetch-site: cross-site
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
